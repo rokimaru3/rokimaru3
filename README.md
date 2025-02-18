@@ -58,12 +58,13 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </p>
-
+-->
 ---
 
 ## 📌 Featured Projects
@@ -75,6 +76,6 @@ Here are some ideas to get you started:
 
 ## 🤝 Let's Connect!
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
 </p>
 
